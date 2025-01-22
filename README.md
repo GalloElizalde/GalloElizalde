@@ -19,7 +19,7 @@ I'm a master's student in Particle Physics, deeply interested in understanding t
 - **Topics:** Quantum Computing, Particle Physics, Numerical Simulations, Machine Learning  
 
 
-<!-- SKILLS SECTION -->🛠 **Highlighted Repositories**  
-<!-- SKILLS SECTION -->- [**Quantum Simulations and Projects**](https://github.com/yourusername/quantum-simulations): A collection of quantum algorithms and physics simulations.  
-<!-- SKILLS SECTION -->- [**Particle Physics Analysis**](https://github.com/yourusername/particle-physics): Scripts and tools for particle collision data analysis and Monte Carlo methods.  
+<!-- SKILLS SECTION 🛠 **Highlighted Repositories**  -->
+<!-- SKILLS SECTION - [**Quantum Simulations and Projects**](https://github.com/yourusername/quantum-simulations): A collection of quantum algorithms and physics simulations.-->  
+<!-- SKILLS SECTION - [**Particle Physics Analysis**](https://github.com/yourusername/particle-physics): Scripts and tools for particle collision data analysis and Monte Carlo methods.  -->
 
