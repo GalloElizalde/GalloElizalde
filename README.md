@@ -2,12 +2,6 @@
 
 🎓 Physics Master's Scholar | 🧠 Quantum Computing Enthusiast | 🌌 Particle Physics Analyst
 
-Welcome to my repository! Here you'll find projects related to:  
-- **Particle Physics:** Data analysis, statistical methods, and Monte Carlo simulations applied to particle collision events.  
-- **Quantum Computing:** Implementation of quantum algorithms, such as Deutsch-Jozsa, Grover, and Shor, using Qiskit.  
-- **Numerical Simulations:** Python-based models for simulating physical systems, including dynamic and quantum mechanical processes.  
-- **Machine Learning:** Development of machine learning models for analyzing and interpreting physics datasets.  
-
 🔧 **My Skills**  
 
 - **Programming:** Python, C++, LaTeX  
