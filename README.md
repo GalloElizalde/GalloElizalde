@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Josué Elizalde
 
-🎓 Physics Master's Scholar | 🧠 Quantum Computing Enthusiast | 🌌 Particle Physics Analyst
+🎓 Master's in Particle Physics | 🧠 Quantum Computing | ⚛️ SMEFT | 📊 Machine Learning  
+🌍 Based in Europe · 🇲🇽 From Mexico · Research-driven · Code-lover
 
 🔧 **My Skills**  
 
