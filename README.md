@@ -11,6 +11,9 @@
 
 ## 🔬 Projects
 
+- [**spin-correlations-smeft**](https://github.com/GalloElizalde/spin-correlations-smeft)  
+  SMEFT analysis of spin correlations and quantum observables in top quark pair production.
+
 - **[IceCube ML Classification](https://github.com/GalloElizalde/icecube-ml-classification)**  
   Machine learning analysis of neutrino events from IceCube.
 
