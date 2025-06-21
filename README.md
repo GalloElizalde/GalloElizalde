@@ -5,7 +5,7 @@
 
 🔧 **My Skills**  
 
-- **Programming:** Python, C++ 
+- **Programming:** Python, C++, ROOT
 - **Physics Tools:** ROOT, Qiskit, NumPy, SciPy, Matplotlib  
 - **Topics:** Quantum Computing, Particle Physics, Numerical Simulations, Machine Learning  
 
