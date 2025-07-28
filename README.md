@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Josué Elizalde
+# 👋 Hi, I'm Josue Elizalde
 
-🎓 Master's in Particle Physics | 🧠 Quantum Computing | ⚛️ SMEFT | 📊 Machine Learning  
+🎓 Master's in Particle Physics | ⚛️ High Energy Physics | 📊 Machine Learning | Data Science |
 🌍 Based in Europe  · Research-driven · Code-lover
 
 🔧 **My Skills**  
 
-- **Programming:** Python, C++, ROOT
-- **Physics Tools:** ROOT, Qiskit, NumPy, SciPy, Matplotlib  
-- **Topics:** Quantum Computing, Particle Physics, Numerical Simulations, Machine Learning  
+- **Programming:** Python, C++, Julia
+- **Tools:** ROOT, NumPy, SciPy, pandas, PyTorch, Matplotlib  
+- **Topics:** Machine Learning, Particle Physics,   
 
 
 ## 🔬 Projects
