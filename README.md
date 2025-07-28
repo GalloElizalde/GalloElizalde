@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Josue Elizalde
 
 🎓 Master's in Particle Physics | ⚛️ High Energy Physics | 📊 Machine Learning | Data Science |
+
 🌍 Based in Europe  · Research-driven · Code-lover
 
 🔧 **My Skills**  
