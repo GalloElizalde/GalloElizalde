@@ -3,10 +3,11 @@
 ## 🔬 Projects in Machine Learning, Data Science and High Energy Physics
 
 - [**spin-correlations-smeft**](https://github.com/GalloElizalde/spin-correlations-smeft)  
-  Data analysis of spin correlations and quantum observables in top quark pair production.
+  Data analysis of top quark pair production to extract spin correlations and quantum observables in CMS and ATLAS collisions.
 
 - **[IceCube ML Classification](https://github.com/GalloElizalde/icecube-ml-classification)**  
-  Machine learning analysis of neutrino events from IceCube.
+  
+  A Comparative Study of Random Forest, Naïve Bayes, and k-Nearest Neighbors for Neutrino Event Classification in the IceCube Detector.
 
 - **[LHCb Mass Fit](https://github.com/GalloElizalde/lhcb-mass-fit)**  
   Data analysis and mass fitting using ROOT and LHCb datasets.
