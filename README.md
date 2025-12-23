@@ -1,17 +1,6 @@
 # 👋 Hi, I'm Josue Elizalde
 
-🎓 Master's in Particle Physics | ⚛️ High Energy Physics | 📊 Machine Learning | Data Science |
-
-🌍 Based in Europe  · Research-driven · Code-lover
-
-🔧 **My Skills**  
-
-- **Programming:** Python, C++, Julia
-- **Tools:** Pytorch, NumPy, SciPy, pandas, PyTorch, Matplotlib  
-- **Topics:** Machine Learning, Data Science, Medical Image, Particle Physics  
-
-
-## 🔬 Projects
+## 🔬 Projects in Machine Learning, Data Science and High Energy Physics
 
 - [**spin-correlations-smeft**](https://github.com/GalloElizalde/spin-correlations-smeft)  
   Data analysis of spin correlations and quantum observables in top quark pair production.
