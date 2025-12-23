@@ -6,7 +6,6 @@
   Data analysis of top quark pair production to extract spin correlations and quantum observables in CMS and ATLAS collisions, and to assess their sensitivity to dimension-6 SMEFT operators.
 
 - **[IceCube ML Classification](https://github.com/GalloElizalde/icecube-ml-classification)**  
-  
   A Comparative Study of Random Forest, Naïve Bayes, and k-Nearest Neighbors for Neutrino Event Classification in the IceCube Detector.
 
 - **[LHCb Mass Fit](https://github.com/GalloElizalde/lhcb-mass-fit)**  
