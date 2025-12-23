@@ -3,7 +3,7 @@
 ## 🔬 Projects in Machine Learning, Data Science and High Energy Physics
 
 - [**spin-correlations-smeft**](https://github.com/GalloElizalde/spin-correlations-smeft)  
-  Data analysis of top quark pair production to extract spin correlations and quantum observables in CMS and ATLAS collisions.
+  Data analysis of top quark pair production to extract spin correlations and quantum observables in CMS and ATLAS collisions, and to assess their sensitivity to dimension-6 SMEFT operators.
 
 - **[IceCube ML Classification](https://github.com/GalloElizalde/icecube-ml-classification)**  
   
