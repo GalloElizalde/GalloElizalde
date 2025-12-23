@@ -7,14 +7,14 @@
 🔧 **My Skills**  
 
 - **Programming:** Python, C++, Julia
-- **Tools:** ROOT, NumPy, SciPy, pandas, PyTorch, Matplotlib  
-- **Topics:** Machine Learning, Particle Physics,   
+- **Tools:** Pytorch, NumPy, SciPy, pandas, PyTorch, Matplotlib  
+- **Topics:** Machine Learning, Data Science, Medical Image, Particle Physics  
 
 
 ## 🔬 Projects
 
 - [**spin-correlations-smeft**](https://github.com/GalloElizalde/spin-correlations-smeft)  
-  SMEFT analysis of spin correlations and quantum observables in top quark pair production.
+  Data analysis of spin correlations and quantum observables in top quark pair production.
 
 - **[IceCube ML Classification](https://github.com/GalloElizalde/icecube-ml-classification)**  
   Machine learning analysis of neutrino events from IceCube.
