@@ -1,67 +1,55 @@
 # 👋 Hi, I'm Josue Elizalde
 
-## 🔬 Projects in Machine Learning, Data Analysis and High Energy Physics
+## 🔬 Projects in Machine Learning, Neuroimaging, Data Analysis and High Energy Physics
 
-## 🧠 Machine Learning & Neuroimaging
+## Selected Research Projects
 
-### [Brain Age Prediction from MRI](https://github.com/GalloElizalde/BrainAge-CNN)
-End-to-end deep learning pipeline for brain age regression from structural MRI.
+### [Brain Age Prediction from MRI](https://github.com/GalloElizalde/BrainAge-CNN)  
+**Research question:** How does structural information in MRI encode biological aging, and how do representation choices affect generalization?
 
-- Implemented a Convolutional Neural Network (CNN) in PyTorch to estimate brain age from T1-weighted MRI scans.
-- Designed a 3D-to-2D preprocessing pipeline to systematically study slice-selection strategies.
-- Evaluated regression performance using MAE, RMSE, \(R^2\), Pearson correlation, and age-bin error analysis.
-- Built a modular and reproducible pipeline to facilitate future extensions and model comparisons.
+This project frames brain age regression as a representation learning problem. The focus is on how data geometry, slicing strategies, and preprocessing assumptions influence learned age-related features, prioritizing interpretability and robustness over architectural complexity.
 
 ---
 
-### [fNIRS PCA–ICA Finger Tapping Analysis](https://github.com/GalloElizalde/fnirs-pca-ica-finger-tapping)
-Multivariate time-series analysis of functional near-infrared spectroscopy (fNIRS) data.
+### [fNIRS PCA–ICA Finger Tapping Analysis](https://github.com/GalloElizalde/fnirs-pca-ica-finger-tapping)  
+**Research question:** Can latent components extracted from multivariate fNIRS signals be meaningfully related to task structure and physiology?
 
-- Analyzed HbO/HbR fNIRS signals using PCA and FastICA to separate task-related and physiological components.
-- Implemented preprocessing, filtering, and decomposition of multivariate time-series signals.
-- Evaluated latent components using reconstruction error and temporal correlation with task timing.
-- Generated subject-level visualizations and quantitative summaries.
+This work studies unsupervised decomposition of neurophysiological time series, treating PCA and ICA as explicit modeling assumptions about signal generation. Emphasis is placed on component interpretability, cross-subject consistency, and alignment with experimental timing.
 
 ---
 
-## 📊 Classical Machine Learning & Data Analysis
+### [Breast Cancer Clustering Analysis](https://github.com/GalloElizalde/data-mining-breast-cancer)  
+**Research question:** How do normalization and representation choices affect unsupervised structure discovery?
 
-### [Breast Cancer Clustering Analysis](https://github.com/GalloElizalde/data-mining-breast-cancer)
-Unsupervised learning and representation analysis on the WDBC dataset.
-
-- Performed data preprocessing and unsupervised learning using K-Means and hierarchical clustering.
-- Studied the impact of multiple normalization strategies (Min–Max, logarithmic, standard scaling).
-- Reduced dimensionality using PCA and analyzed feature representations.
-- Evaluated clustering performance using internal metrics and external labels (Accuracy, ARI).
+This project explores clustering as a representation problem, analyzing how preprocessing pipelines and dimensionality reduction strategies reshape the data manifold and influence downstream interpretability, rather than optimizing for a single clustering score.
 
 ---
 
+### [Spin Correlations in \(t\bar{t}\) Production (SMEFT)](https://github.com/GalloElizalde/spin-correlations-smeft)  
+**Research question:** How can learning-based observables probe theoretically well-defined quantities?
 
-## ⚛️ High-Energy Physics
-
-### [Spin Correlations in \(t\bar{t}\) Production (SMEFT)](https://github.com/GalloElizalde/spin-correlations-smeft)
-Phenomenological analysis of top-quark pair production at the LHC.
-
-- Analyzed spin correlations and angular observables in CMS- and ATLAS-like collision kinematics.
-- Studied sensitivity of quantum observables to dimension-6 SMEFT operators.
-- Combined data analysis and theoretical modeling to probe beyond-the-Standard-Model effects.
+This work studies spin correlations in top-quark pair production as a bridge between data-driven analysis and effective field theory, focusing on interpreting statistical observables in terms of SMEFT operators rather than replacing theory with machine learning.
 
 ---
 
-### [IceCube ML Classification](https://github.com/GalloElizalde/icecube-ml-classification)
-Comparative study of classical ML methods for neutrino event classification.
+### [IceCube ML Classification](https://github.com/GalloElizalde/icecube-ml-classification)  
+**Research question:** How do classical ML models capture structure in high-dimensional detector data?
 
-- Designed a complete machine learning pipeline for IceCube Monte Carlo data.
-- Trained and compared Random Forest, Naïve Bayes, and k-Nearest Neighbors classifiers.
-- Evaluated performance using cross-validation and standard classification metrics.
+This project treats particle classification as a case study in feature representation and inductive bias, comparing how different algorithms encode physical information under limited supervision and noisy Monte Carlo data.
 
 ---
 
-### [LHCb Mass Fit](https://github.com/GalloElizalde/lhcb-mass-fit)
-Invariant mass reconstruction using ROOT and LHCb datasets.
+### [LHCb Mass Fit](https://github.com/GalloElizalde/lhcb-mass-fit)  
+**Research question:** How do statistical modeling choices affect signal extraction?
 
-- Performed mass fits and background modeling using ROOT.
-- Studied signal extraction and statistical uncertainties in heavy-flavor decays.
+Here the emphasis is on invariant mass reconstruction as a statistical inference problem, focusing on background modeling, uncertainty estimation, and the interpretability of fitted parameters in heavy-flavor physics.
+
+---
+
+### [ROOT B-Physics Analysis](https://github.com/GalloElizalde/bphysics-root-analysis)  
+**Research question:** How do reconstruction-level decisions propagate to physics-level conclusions?
+
+This analysis highlights the connection between low-level invariant mass reconstruction and rare decay searches, emphasizing how methodological choices affect physical observables.
 
 ---
 
