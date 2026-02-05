@@ -19,7 +19,7 @@ This work studies unsupervised decomposition of neurophysiological time series, 
 This project explores clustering as a representation problem, analyzing how preprocessing pipelines and dimensionality reduction strategies reshape the data manifold and influence downstream interpretability, rather than optimizing for a single clustering score.
 
 
-#### [Spin Correlations in \(t\bar{t}\) Production (SMEFT)](https://github.com/GalloElizalde/spin-correlations-smeft)  
+#### [Spin Correlations in $\(t\bar{t}\)$ Production (SMEFT)](https://github.com/GalloElizalde/spin-correlations-smeft)  
 
 This work studies spin correlations in top-quark pair production as a bridge between data-driven analysis and effective field theory, focusing on interpreting statistical observables in terms of SMEFT operators rather than replacing theory with machine learning.
 
