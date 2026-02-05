@@ -2,15 +2,15 @@
 
 ## 🔬 Projects in Machine Learning, Neuroimaging, Data Analysis and High Energy Physics
 
-## Selected Research Projects
+# Selected Research Projects
 
-### [Brain Age Prediction from MRI](https://github.com/GalloElizalde/BrainAge-CNN)  
+#### [Brain Age Prediction from MRI](https://github.com/GalloElizalde/BrainAge-CNN)  
 **Research question:** How does structural information in MRI encode biological aging, and how do representation choices affect generalization?
 
 This project frames brain age regression as a representation learning problem. The focus is on how data geometry, slicing strategies, and preprocessing assumptions influence learned age-related features, prioritizing interpretability and robustness over architectural complexity.
 
 
-### [fNIRS PCA–ICA Finger Tapping Analysis](https://github.com/GalloElizalde/fnirs-pca-ica-finger-tapping)  
+#### [fNIRS PCA–ICA Finger Tapping Analysis](https://github.com/GalloElizalde/fnirs-pca-ica-finger-tapping)  
 **Research question:** Can latent components extracted from multivariate fNIRS signals be meaningfully related to task structure and physiology?
 
 This work studies unsupervised decomposition of neurophysiological time series, treating PCA and ICA as explicit modeling assumptions about signal generation. Emphasis is placed on component interpretability, cross-subject consistency, and alignment with experimental timing.
