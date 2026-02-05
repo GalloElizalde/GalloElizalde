@@ -29,15 +29,6 @@ This work studies spin correlations in top-quark pair production as a bridge bet
 This project treats particle classification as a case study in feature representation and inductive bias, comparing how different algorithms encode physical information under limited supervision and noisy Monte Carlo data.
 
 
-#### [LHCb Mass Fit](https://github.com/GalloElizalde/lhcb-mass-fit)  
-
-Here the emphasis is on invariant mass reconstruction as a statistical inference problem, focusing on background modeling, uncertainty estimation, and the interpretability of fitted parameters in heavy-flavor physics.
-
-
-#### [ROOT B-Physics Analysis](https://github.com/GalloElizalde/bphysics-root-analysis)  
-
-This analysis highlights the connection between low-level invariant mass reconstruction and rare decay searches, emphasizing how methodological choices affect physical observables.
-
 
 <!-- SKILLS SECTION 🛠 **Highlighted Repositories**  -->
 <!-- SKILLS SECTION - [**Quantum Simulations and Projects**](https://github.com/yourusername/quantum-simulations): A collection of quantum algorithms and physics simulations.-->  
